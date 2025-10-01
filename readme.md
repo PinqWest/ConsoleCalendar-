@@ -85,27 +85,6 @@
 
 ---
 
-## Структура репозитория
-
-/ПГС
-│── README.md
-│── problems/
-│    ├── promlem1.cs
-│    ├── problem2.cs
-│    ├── problem3.cs
-│    ├── problem4.cs
-│    └── problem5.cs
-│── screenshots/
-│    ├── problem1.png
-│    ├── problem2–false.png
-│    ├── problem2–true.png
-│    ├── problem3.png
-│    ├── problem4.png
-│    └── problem5.png
-
-
-
----
 
 ## Как запустить
 
